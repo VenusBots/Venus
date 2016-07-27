@@ -213,7 +213,7 @@ function create_config( )
       "Clash_of_Clans",
       "plugins"
       },
-    sudo_users = {109722284,87160007},
+    sudo_users = {91112540,257308762},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'}
   }
@@ -223,7 +223,7 @@ function create_config( )
   print ('saved config into ./data/config.lua')
 end
 
-function on_our_id (id)
+function on_our_id (91112540)
   our_id = id
 end
 
